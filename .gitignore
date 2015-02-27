@@ -1,0 +1,19 @@
+# Creative Store
+
+## Site
+web/.htaccess
+
+## NodeJS
+
+node_modules/
+npm-debug.log
+
+## WordPress
+
+web/wp-config.php
+web/shared
+
+### Creative Store Theme
+
+web/content/themes/creative-store/style.css
+web/content/themes/creative-store/login.css
